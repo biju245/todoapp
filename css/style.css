@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #300453;     
+}
+container{
+  margin: 0px;   
+}
+.navhead{
+    color: white!important;
+}
+.navbtn{
+    background-color: white; 
+    margin-right: 10px; 
+    font-weight: bold;  
+}
+.cpright{
+    color: white;
+    font-size: 14px;    
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.cpright i{
+   font-size: 14px;
+   margin-right: 10px;
+}
+.cpright-label{
+    margin-right: 20px;    
+}
+.lgnbox{
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+
+.secthead{
+    text-align: center;
+    font-size: 32px;
+    padding-top: 15px;
+    color: rgb(100, 98, 98);
+    
+}
+.sect-subhead{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 15px;
+    color: rgb(10, 201, 83);
+}
+footer{
+    background-color: #140229;   
+}
+.rghthead{
+    color: #ce7d05;
+}
+.welcometext{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.reqform{
+    border: 2px solid rgb(92, 66, 245);
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: rgb(230, 232, 240);
+}
+.todotable{       
+    margin-top: 20px;
+    background-color: white;
+    width: 100%;
+}
+
+.regpagebg{
+    background-size: cover;
+}
+#userbox{
+    text-align: center;
+}
+#userbox h3{
+    margin: 2px;
+}
+#userbox p a{
+    text-decoration: none;
+}
+
+
